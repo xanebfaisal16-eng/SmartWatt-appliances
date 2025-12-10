@@ -1,0 +1,17 @@
+<svg width="140" height="40" viewBox="0 0 320 90" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon -->
+  <g transform="translate(10,10)">
+    <circle cx="30" cy="30" r="28" fill="#ffffff" stroke="#1e3a8a" stroke-width="4" />
+    <path d="M30 12 L20 34 L30 26 L16 54 L30 36 L26 70 L44 34 L34 42 L50 12 L30 26 Z" 
+          fill="#1e3a8a"/>
+  </g>
+
+  <!-- Text -->
+  <text x="95" y="38" font-size="28" font-family="Arial, sans-serif" fill="#ffffff">
+    SmartWatt
+  </text>
+
+  <text x="95" y="62" font-size="16" font-family="Arial, sans-serif" fill="#ffd700">
+    XanebFaisal
+  </text>
+</svg>
